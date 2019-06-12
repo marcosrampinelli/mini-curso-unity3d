@@ -1,6 +1,6 @@
 README
 
-Saulo, abra a cena dando um duplo clique no arquivo "Scene" que está abaixo. Em seguida, você pode fazer a alteração que quiser. 
+Abra a cena dando um duplo clique no arquivo "Scene" que está abaixo. Em seguida, você pode fazer a alteração que quiser. 
 
 Revisando as abas do Unity:
 
@@ -11,8 +11,3 @@ Project - aqui estão localizados todos os arquivos usados no projeto como arqui
 Inspector - exibe as propriedades do elemento selecionado na cena.
 
 Para fazer a cena rodar, apenas pressione o botão Play na parte superior central do Unity.
-
-Qualquer dúvida, estamos à disposição.
-
-
-Marcos Rampinelli
